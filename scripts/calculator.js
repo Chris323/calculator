@@ -58,18 +58,18 @@ const operate = (operator, value1, value2) => {
   //console.log(operator, value1, value2);
 };
 
-function add(a, b) {
-  return a + b;
-}
+// function add(a, b) {
+//   return a + b;
+// }
 
-function subtract(a, b) {
-  return a - b;
-}
+// function subtract(a, b) {
+//   return a - b;
+// }
 
-function multiply(a, b) {
-  return a * b;
-}
+// function multiply(a, b) {
+//   return a * b;
+// }
 
-function divide(a, b) {
-  return a / b;
-}
+// function divide(a, b) {
+//   return a / b;
+// }
