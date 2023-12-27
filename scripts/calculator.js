@@ -3,6 +3,7 @@ const allButtons = document.querySelectorAll(".button");
 
 allButtons.forEach((button) => {
   button.addEventListener("click", (e) => {
+    //the target path is a nice way to grab values from the console using event e.
     const value = e.target.dataset.value;
 
     if (value === "=") {
